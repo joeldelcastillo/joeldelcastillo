@@ -1,14 +1,13 @@
 ### Hola, soy Joel 👋
 
 ### Soy un estudiante en CS, artista y dragón !!
+Estoy interesado en el arte computacional y en el desarrollo web y apps
 
 ### Filosofía:
 
       - 🌄 Inspírate
       - 🦊 Se inútil
       - ◀️ Itera
-
-### Estoy interesado en el arte computacional y en el desarrollo web y apps
 
 ### Languages and Tools:
 
