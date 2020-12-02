@@ -9,7 +9,7 @@ Estoy interesado en el arte computacional, en el desarrollo web, apps y machine 
       - 🦊 Se inútil
       - ◀️ Itera
 
-### Languages and Tools:
+### Lenguajes y Herramientas:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
@@ -20,7 +20,7 @@ Estoy interesado en el arte computacional, en el desarrollo web, apps y machine 
 <img align="left" alt="Xamarin" width="30px" src= "https://cdn.freebiesupply.com/logos/thumbs/2x/xamarin-logo.png" />
 |
 
-### Conectate conmigo:
+### Conéctate conmigo:
 
 [<img align="left" alt="Joel del Castillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joel_del_castillo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
