@@ -1,7 +1,7 @@
 ### Hola, soy Joel 👋
 
 ### Soy un estudiante en CS, artista y dragón !!
-Estoy interesado en el arte computacional y en el desarrollo web y apps
+Estoy interesado en el arte computacional, en el desarrollo web, apps y machine learning
 
 ### Filosofía:
 
@@ -14,6 +14,9 @@ Estoy interesado en el arte computacional y en el desarrollo web y apps
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
 <img align="left" alt="OpenFrameworks" width="26px" src="https://avatars2.githubusercontent.com/u/142866?s=280&v=4" />
+<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="C++" width="26px" src="<img align="left" alt="Python" width="26px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" />
+<img align="left" alt="C++" width="26px" src="<img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/C_Sharp_logo.png/715px-C_Sharp_logo.png" />
 <img align="left" alt="Xamarin" width="28px" src="https://blogs.encamina.com/piensa-en-software-desarrolla-en-colores/wp-content/uploads/sites/21/2015/10/xamarin-logo.png" />
 |
 
