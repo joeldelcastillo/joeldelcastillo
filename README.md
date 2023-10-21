@@ -1,13 +1,6 @@
-### Hola, soy Joel 👋
+### Hey, I'm Joel 👋
 
-### Soy un estudiante en CS, artista y dragón !!
-Estoy interesado en el arte computacional, en el desarrollo web, apps y machine learning
-
-### Filosofía:
-
-      - 🌄 Inspírate
-      - 🦊 Se inútil
-      - ◀️ Itera
+### Founder of Collider | Software Consultor | Full Stack Engineer
 
 ### Lenguajes y Herramientas:
 
@@ -20,7 +13,7 @@ Estoy interesado en el arte computacional, en el desarrollo web, apps y machine 
 <img align="left" alt="Xamarin" width="30px" src= "https://cdn.freebiesupply.com/logos/thumbs/2x/xamarin-logo.png" />
 |
 
-### Conéctate conmigo:
+### Connect with me:
 
 [<img align="left" alt="Joel del Castillo | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="joel_del_castillo | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
