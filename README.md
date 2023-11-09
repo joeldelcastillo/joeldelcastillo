@@ -1,6 +1,6 @@
 ### Hey, I'm Joel 👋
 
-#### Founder of Collider | Software Consultor | Full Stack Engineer
+#### Founder of Collider | Software Consultant | Full Stack Developer
 
 ### Connect with me:
 
